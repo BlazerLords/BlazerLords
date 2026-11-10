@@ -1,23 +1,23 @@
-# Hallo, ich bin Vladimir 👋
+# Hi, I'm Vladimir 👋
 
-**BlazerLords** · Web- und Java-Entwickler
+**BlazerLords** · Web & Java Developer
 
-Ich entwickle Webprojekte und arbeite mit Java und JavaScript. Außerdem beschäftige ich mich mit Anwendungsentwicklung, Entwicklerwerkzeugen und Automatisierung. In meinen öffentlichen Repositories findest du Server-Plugins, Studienprojekte und Experimente.
+I build web projects and work with Java and JavaScript. I also explore application development, developer tools, and automation. My public repositories include server plugins, coursework, and experiments.
 
-## Ausgewählte Projekte
+## Selected projects
 
-- **[TotemGuard](https://github.com/BlazerLords/TotemGuard)** — ein Java-Plugin für Paper, das Spielabläufe analysiert und Telemetrie sowie Hinweise zur Prüfung durch Moderatoren sammelt. Die Daten werden in SQLite gespeichert.
-- **[Duels](https://github.com/BlazerLords/Duels)** — ein erweiterter Fork eines Duell-Plugins für Paper mit Turnieren, Belohnungen, zerstörbaren Arenen und Wiederherstellung nach Neustarts. Basiert auf [komaruontop/Duels](https://github.com/komaruontop/Duels).
+- **[TotemGuard](https://github.com/BlazerLords/TotemGuard)** — a Java plugin for Paper that collects gameplay telemetry and evidence for moderator review, with SQLite persistence.
+- **[Duels](https://github.com/BlazerLords/Duels)** — an extended fork of a Paper dueling plugin, with tournaments, rewards, destructible arenas, and recovery after restarts. Based on [komaruontop/Duels](https://github.com/komaruontop/Duels).
 
-## Lern- und Studienprojekte
+## Learning projects
 
-- **[Software](https://github.com/BlazerLords/Software)** — ein Java-Studienprojekt zum Thema Softwarequalität und Softwaretests mit einer grafischen Benutzeroberfläche und Datenmodellen für Verträge, Kunden und Bestellungen.
-- **[LAB4](https://github.com/BlazerLords/LAB4)** — eine Layoutübung mit HTML und CSS.
+- **[Software](https://github.com/BlazerLords/Software)** — Java coursework for software quality and testing, with a GUI and models for contracts, customers, and orders.
+- **[LAB4](https://github.com/BlazerLords/LAB4)** — an HTML and CSS layout exercise.
 
-## Technologien und Werkzeuge
+## Technologies & tools
 
 Java · JavaScript · HTML · CSS · Gradle · Maven · SQLite
 
-## Was ich als Nächstes erkunden möchte
+## Exploring next
 
-Anwendungen, Entwicklerwerkzeuge, Automatisierung und KI-gestützte Funktionen.
+Applications, developer tools, automation, and AI-powered features.
